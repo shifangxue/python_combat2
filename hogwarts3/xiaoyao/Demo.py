@@ -9,3 +9,4 @@ tstl.fight_zms(enemy_power=randint(90, 101))
 
 xz = Xuzhu()
 xz.read()
+xz.fight_zms(enemy_power=130)
